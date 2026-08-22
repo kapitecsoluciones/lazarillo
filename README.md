@@ -5,10 +5,6 @@ visión: manda sus mensajes y sus notas de voz, le lee documentos y correo, y le
 
 No describe la pantalla. Hace las cosas.
 
-> **No tiene relación con [lazarillo.app](https://lazarillo.app)**, la aplicación chilena de
-> navegación accesible. Coincidimos en el nombre y en el propósito de acompañar a personas con
-> discapacidad visual, pero son proyectos distintos y sin vínculo.
-
 ## Para quién es
 
 Para alguien que **ve, pero muy poco**: necesita letras enormes, acerca la cara a la pantalla y usa
@@ -75,5 +71,9 @@ La landing de aquel proyecto vive en la rama [`gh-pages`](../../tree/gh-pages).
 
 Se diseñó con una persona real con baja visión, actor de teatro, que la usa todos los días.
 No se publica su nombre ni ningún dato suyo.
+
+*Lazarillo* es el nombre común en español de quien guía a una persona ciega, de *El Lazarillo de
+Tormes*. Existen otros proyectos que lo usan —entre ellos [lazarillo.app](https://lazarillo.app), una
+app de navegación accesible—; son cosas distintas y sin relación con esta habilidad.
 
 Hecho por [Kapitec Soluciones](https://kapitec.pro). MIT.
